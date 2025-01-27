@@ -1,4 +1,4 @@
-# ![PHPPresentation](https://raw.githubusercontent.com/mvargasmoran/PHPPresentation/develop/docs/images/PHPPresentationLogo.png "PHPPresentation")
+ # ![PHPPresentation](https://raw.githubusercontent.com/mvargasmoran/PHPPresentation/develop/docs/images/PHPPresentationLogo.png "PHPPresentation")
 
 [![Latest Stable Version](https://poser.pugx.org/phpoffice/phppresentation/v/stable.png)](https://packagist.org/packages/phpoffice/phppresentation)
 [![Code Climate](https://codeclimate.com/github/PHPOffice/PHPPresentation/badges/gpa.svg)](https://codeclimate.com/github/PHPOffice/PHPPresentation)
